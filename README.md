@@ -4,7 +4,7 @@ This is a project for a General Knowledge Quiz.
 
 ## Preview 
 
-![Screenshot 2024-07-26 at 16 49 26](https://github.com/user-attachments/assets/908ed4be-9e5e-464f-ac6d-afcc358c010b)
+![_Users_Manon_Projects_quiz_index html](https://github.com/user-attachments/assets/0a95ba5e-fd88-42e4-a30f-054b553f0371)
 
 ## Validation Functionality
 
